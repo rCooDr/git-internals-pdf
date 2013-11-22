@@ -1,5 +1,13 @@
 # Git Internals PDF
 
+    A Note of Acknowledement
+
+    This repository was forked.
+    I am just looking at it.
+    Please consider the original work.
+ 
+    Thanks
+
 This PDF explains the internal workings of the Git source code control system. [Download the rendered PDF](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf).
 
 It was originally written by [Scott Chacon](https://github.com/schacon) and published at PeepCode (now a part of Pluralsight).
